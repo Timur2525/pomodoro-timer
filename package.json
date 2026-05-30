@@ -1,0 +1,12 @@
+{
+  "name": "student-pomodoro",
+  "version": "1.0.0",
+  "description": "Простое приложение Таймер Pomodoro на Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
